@@ -3,11 +3,11 @@
 # Git Collaboration
 **GOAL**: In this project, you and your partner will be creating a list of apples in a text document, all version-controlled with Git!  While this project has an apples-listing theme, the apples (and the project) is not the point: The real goal is to give us an introduction to how we’ll be collaborating via Git in the coming lessons.
 
-Collaborators: _________________
+Collaborators: Imogen and Eloise
 
 ## Part 1: First Edits and `git status`
 1. Open the project in VS Code.  From within your project directory, type code ., and that should open your project in VS Code.
-2. Open the README and edit the line that says Collaborators: _________________ to include your names.
+2. Open the README and edit the line that says Collaborators: Imogen and Eloise to include your names.
 3. Create a new file, `apples.txt`. Add one item granny smith in it.
 4. In your terminal type `git status`:
     - If it is not already, `git status` should become one of your favorite and most used git commands. It gives you a lot of information, including which branch you are on (more about branches soon), and information about the state of files that have been modified since the last commit.
